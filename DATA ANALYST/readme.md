@@ -7,13 +7,31 @@ What does a Data Analyst do?
 A data analyst is someone who collects, processes and performs statistical analyses of data. Data Analyst is the one who must turn the data into information and the information into insights. He or she can translate numbers and data into plain English in order to help organizations and companies understand how to make better business decisions.
 
 
+*Data analytics is a social activity, You must be able to*
+
+  - Understand
+  - Adapt
+  - Communicate ideas at ease
+
+
 **Data Analyst Tasks involves:**
 
-  - [Data Gathering]()
+  - [Data Gathering]() : expert in collecting and working with raw data is crucial
+     - surveys
+     - datasets 
   - [Data Cleaning]()
+     - reorganise data and improve its quality 
   - [Data Preprocessing]()
+     - involves some serious amount of codoing
+     - Analytical thinking and statistical methods are leading this process
   - [Data Manipulation]()
+     - Sometimes involves data manipulation
+     - involves techniques such as sorting,etc 
   - [Data Visualization]()
+     - A good visualization speaks more than a thousand words itself
+     - Applying different types of analysis considering any possible angle
+     - At this stage we can extract good insights about any business and have a better idea of 
+       what can be done to boost your future performance 
   - [Data Interpretation]()
 
 
