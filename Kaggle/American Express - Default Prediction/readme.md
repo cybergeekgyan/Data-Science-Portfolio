@@ -11,3 +11,35 @@ American Express is a globally integrated payments company. The largest payment 
 In this competition, you’ll apply your machine learning skills to predict credit default. Specifically, you will leverage an industrial scale data set to build a machine learning model that challenges the current model in production. Training, validation, and testing datasets include time-series behavioral data and anonymized customer profile information. You're free to explore any technique to create the most powerful model, from creating features to using the data in a more organic way within a model.
 
 If successful, you'll help create a better customer experience for cardholders by making it easier to be approved for a credit card. Top solutions could challenge the credit default prediction model used by the world's largest payment card issuer—earning you cash prizes, the opportunity to interview with American Express, and potentially a rewarding new career.
+
+
+### Evaluation 
+
+The evaluation metric, 𝑀
+M
+, for this competition is the mean of two measures of rank ordering: Normalized Gini Coefficient, 𝐺
+G
+, and default rate captured at 4%, 𝐷
+D
+.
+
+𝑀=0.5⋅(𝐺+𝐷)
+M
+=
+0.5
+⋅
+(
+G
++
+D
+)
+
+The default rate captured at 4% is the percentage of the positive labels (defaults) captured within the highest-ranked 4% of the predictions, and represents a Sensitivity/Recall statistic.
+
+For both of the sub-metrics 𝐺
+G
+ and 𝐷
+D
+, the negative labels are given a weight of 20 to adjust for downsampling.
+
+This metric has a maximum value of 1.0.
