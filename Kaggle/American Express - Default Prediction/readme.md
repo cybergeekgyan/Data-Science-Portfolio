@@ -1,6 +1,6 @@
-## Predict if a customer will default in the future
+# Predict if a customer will default in the future
 
-### Description 
+## Description 
 
 Whether out at a restaurant or buying tickets to a concert, modern life counts on the convenience of a credit card to make daily purchases. It saves us from carrying large amounts of cash and also can advance a full purchase that can be paid over time. How do card issuers know we’ll pay back what we charge? That’s a complex problem with many existing solutions—and even more potential improvements, to be explored in this competition.
 
@@ -13,7 +13,7 @@ In this competition, you’ll apply your machine learning skills to predict cred
 If successful, you'll help create a better customer experience for cardholders by making it easier to be approved for a credit card. Top solutions could challenge the credit default prediction model used by the world's largest payment card issuer—earning you cash prizes, the opportunity to interview with American Express, and potentially a rewarding new career.
 
 
-### Evaluation 
+## Evaluation 
 
 The evaluation metric, 𝑀
 M
@@ -43,3 +43,5 @@ D
 , the negative labels are given a weight of 20 to adjust for downsampling.
 
 This metric has a maximum value of 1.0.
+
+Python code for calculating this metric can be found in (this Notebook)[https://www.kaggle.com/code/inversion/amex-competition-metric-python]
