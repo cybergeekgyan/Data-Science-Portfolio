@@ -44,4 +44,4 @@ D
 
 This metric has a maximum value of 1.0.
 
-Python code for calculating this metric can be found in (this Notebook)[https://www.kaggle.com/code/inversion/amex-competition-metric-python]
+Python code for calculating this metric can be found in [this Notebook](https://www.kaggle.com/code/inversion/amex-competition-metric-python)
