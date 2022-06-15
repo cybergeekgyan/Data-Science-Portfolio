@@ -45,3 +45,12 @@ D
 This metric has a maximum value of 1.0.
 
 Python code for calculating this metric can be found in [this Notebook](https://www.kaggle.com/code/inversion/amex-competition-metric-python)
+
+## Timeline
+
+- May 25, 2022 - Start Date.
+- August 17, 2022 - Entry Deadline. You must accept the competition rules before this date in order to compete.
+- August 17, 2022 - Team Merger Deadline. This is the last day participants may join or merge teams.
+- August 24, 2022 - Final Submission Deadline.
+
+*All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise noted. The competition organizers reserve the right to update the contest timeline if they deem it necessary.*
