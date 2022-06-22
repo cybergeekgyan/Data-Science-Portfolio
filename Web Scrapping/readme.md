@@ -6,6 +6,8 @@ A collection of web scraping projects to practice my skills and building a portf
 |---|---|
 | [Amazon](https://github.com/cybergeekgyan) | product and price data |
 | [Political Data Analytics](https://github.com/cybergeekgyan) | To analyze the generic sentiments of Country’s citizens towards a specific political party |
+| [Drug Recommendation System](https://github.com/cybergeekgyan) | Building a drug recommender system by Looking at the drugs of a few other medicines|
+| [Analysing Company Financials](https://github.com/cybergeekgyan) | Analysing company financials before investing will help us make better decisions |
 | [IMDB Movies Review Analysis](https://github.com/cybergeekgyan) | Personalized movie review analyzer |
 | [Indeed.com](https://github.com/cybergeekgyan) | job postings based on search criteria | 
 | [Yahoo! Finance](https://github.com/cybergeekgyan) | financial, company and historical stock data |
