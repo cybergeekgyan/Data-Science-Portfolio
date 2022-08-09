@@ -62,6 +62,8 @@ Then, you can proceed to any of this topics below if you know what you want to c
    - Numpy to do high computations and manipulate high dimensional arrays, 
    - Matplotlib to plot insightful charts and 
    - Pandas to import and manipulate datasets the most efficiently.
+   
+   
 
 ### Repository
 
