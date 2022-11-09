@@ -31,9 +31,22 @@ Generally refers to the numbers in a neural network or Machine Learning algorith
 A value that takes part in defining the overall structure of a model or behavior of an algorithm. Hyperparameters are not altered by the model training process and are set ahead of time before training. Many potential values for hyperparameters are generally tested to find those that optimize the training process. E.g, in a neural network, the number of layers is a hyperparameter (not altered by training), whereas the values within the layers (“weights”) themselves are parameters (altered by training). ... If the model is a radio, then a hyperparameter would be the number of knobs on the radio, while the values of these knobs would be parameters.
 
 11. Generative Models
+Generative Models are a subset of AI Models that can be used to generate data that is similar to a set of training data. For example, if a well-performing generative model is trained on a dataset of human faces, then it can be used to generate entirely novel images of new human faces. Generative Models have become popular in recent years and include DALLE-2, Imagen, Stable Diffusion, and Poisson Flow Generative Models (PFGMs).
+
 12. Reinforcement Learning
+Reinforcement Learning (RL) is an area of Machine Learning inspired by real-world environments where learning happens by rewarding desired behaviors and punishing undesired ones. It first gained popularity when computers learned to play different video games through RL approaches, but it’s now a powerful technique that’s widely used in many Deep Learning fields.
+
 13. Large Language Models
+Language Models are mathematical models that give the probability of a certain sequence of words occurring in a given language. Large Language Models are very big and trained on huge amounts of data, ... therefore encapsulating significant amounts of information about a language. Large language models are widely used in applications relevant to natural language, powering things like text-prediction.
+
 14. Transformers
+Transformers are a type of Deep Learning model that are widely used in state-of-the-art applications. Their main benefit is that they are able to distribute their computations across many machines, ... making the complicated computations required for e.g. automatic speech recognition feasible to do in a reasonable amount of time.
+
 15. Transfer learning
+Transfer learning is a Machine Learning technique where a trained model for one task is reused as the starting point for a new model on a different task. ... The new model can then utilize the already existing knowledge and often needs less training. It is a powerful technique that is widely used and often yields good results.
+
 16. Accelerators
+Accelerators are specialized computer hardware that are useful for AI and can accelerate the computation speed of models. Graphical Processing Units (GPUs) and Tensor Processing Units (TPUs) are different types of accelerators.
+
 17. GPUs
+A graphics processing unit (GPU) is a computer chip designed to perform rapid mathematical calculations. Traditionally, GPUs are responsible for rendering graphics and images, although today, they have a wider use range. With the emergence of Deep Learning, the importance of GPUs has increased. Training of deep neural networks can be more than 100 times faster with GPUs than with CPUs (Central Processing Units).
