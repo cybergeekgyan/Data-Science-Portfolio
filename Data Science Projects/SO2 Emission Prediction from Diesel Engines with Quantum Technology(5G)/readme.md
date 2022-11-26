@@ -1,5 +1,7 @@
 ## SO2 Emission Prediction from Diesel Engines with Quantum Technology(5G)
 
+[Google Colab Notebook](https://colab.research.google.com/drive/1UAdJ-m9DFWlQWKnJNuyeRWmYexa1XjAJ?authuser=1#scrollTo=6_8QhUtul4SX)
+
 ### Aim 
 
 - The aim of this project is to design a Quantum Artificial Intelligence brain that learns the emission values of SO2 gases releases from diesel engines in the world with the 8-layer Quantum Algorithm, and then to compare the performance of the created Quantum Artificial Intelligence brain with Machine Learning, Deep Learning (Classical Neuronal Networks).
