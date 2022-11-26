@@ -20,6 +20,7 @@
 
 - This project has proven to be compatible with 5G technology. The result obtained from the logarithm of the division of the byte rates transferred at 5G speed to the model accuracy is more than the result obtained in 4G technology, as in the following mathematical calculation.
 
+```
 5G = 10Gbps
 
 4G = 0.1Gbps
@@ -27,3 +28,4 @@
 log(5G/model_byte) = 2.698970004336X
 
 log(4G/model_byte) = 0.69897000433602X
+```
