@@ -8,6 +8,7 @@
 - Trucco & Verri: Introductory Techniques for 3-D Computer Vision.
 - Low: Introductory Computer Vision and Image Processing, 1991.
 - Jain, Kasturi and Schunk: Machine Vision, McGraw-HiII. 1995
+- https://www.cs.nmt.edu/~ip/lectures.html
 
 ## Resources
 
