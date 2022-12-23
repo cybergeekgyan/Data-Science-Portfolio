@@ -14,6 +14,7 @@
 | Courses | Description | Impact | Result | Video Solution | Blog |
 |----------|-------------|--------|--------|----------------|------|
 | [NPTEL]() |
+| []() |
 
 
 ## Introduction to Digital Image Processing and Computer Vision
