@@ -4,6 +4,8 @@
 
 - [Machine Learning Roadmap](https://whimsical.com/machine-learning-roadmap-by-ayush-singh-newera-J1EwnqAPUtF77ejgbRc8Hk)
 
+![cheatsheet](https://github.com/cybergeekgyan/Data-Science-Portfolio/blob/main/Data%20Science/Machine%20Learning/MLcheatsheet.jpeg)
+
 ## Supervised Learning
 Supervised learning models are models that map inputs to outputs, and attempt to extrapolate patterns learned in past data on unseen data. Supervised learning models can be either regression models, where we try to predict a continuous variable, like stock prices—or classification models, where we try to predict a binary or multi-class variable, like whether a customer will churn or not. In the section below, we'll explain two popular types of supervised learning models: linear models, and tree-based models. 
 
