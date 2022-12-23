@@ -9,8 +9,8 @@ This cheatsheet introduces you to the basics that you need to plot your data wit
 `Data Science`
 `Data Visualization`
 
-![matplotlib](https://github.com/cybergeekgyan/Data-Science-Portfolio/blob/main/Data%20Science/Data%20Visualization/Infographics/matplotlibcheatsheet.pdf)
-
+<!-- ![matplotlib](https://github.com/cybergeekgyan/Data-Science-Portfolio/blob/main/Data%20Science/Data%20Visualization/Infographics/matplotlibcheatsheet.pdf)
+ -->
 
 ## Prepare the Data  1D Data 
 ```Python
