@@ -1,5 +1,7 @@
 # Complete Data Engineering Roadmap
 
+[Roadmap]https://www.kdnuggets.com/2022/11/complete-data-engineering-study-roadmap.html)
+
 ## 1. Foundation
 
 Python
