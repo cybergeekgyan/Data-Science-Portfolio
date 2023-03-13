@@ -19,6 +19,9 @@
   - [Pseudorandom Number Generation]() 
 
 
+### Advanced Numpy
+
+
 ## [Pandas]()
   - [Introduction to Pandas Data Structure]()
     - Series
@@ -36,6 +39,19 @@
   - [Summarising and Computing Descriptive Statistics]()
     - Correlation and Covariance
     - Unique Values, value counts and Membership    
+
+
+### Advanced Pandas
+
+- [Categorical Data]()
+  - Categorical Type in Pandas
+  - Computations with Categoricals
+  - Categorical Methods
+- [Advanced GroupBy Use]()
+  - Group Transforms and "Unwrapped" GroupBys
+  - Grouped Time Resampling
+- [Techniques for Method Chaining]()
+  - THe pipe method     
 
 
 ## [Data Cleaning and Preparation]()
@@ -56,6 +72,9 @@
   - String Object Methods
   - Regular Expressions
   - Vectorized String Functions in Pandas     
+
+
+## [Data Wrangling : Join, Combine and Reshape]()
 
 
 
